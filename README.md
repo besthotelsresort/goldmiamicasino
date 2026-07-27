@@ -1,0 +1,2 @@
+# goldmiamicasino
+Static site: goldmiamicasino
